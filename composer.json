@@ -1,5 +1,5 @@
 {
-  "name": "serger/array-to-object-mapper-trait",
+  "name": "serger/array-to-object-mapper",
   "license": "MIT",
   "description": "Trait for adding static object constructor from array",
   "type": "library",
