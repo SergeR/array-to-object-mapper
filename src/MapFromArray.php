@@ -7,7 +7,7 @@
 
 namespace SergeR\ArrayToObjectMapper;
 
-use Syrnik\Text\Inflector;
+use SergeR\CakeUtility\Inflector;
 /**
  * Trait MapFromArray
  * @package SergeR\ArrayToObjectMapper

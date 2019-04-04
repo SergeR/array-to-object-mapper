@@ -5,7 +5,7 @@
   "type": "library",
   "require": {
     "php": ">=5.6",
-    "syrnik/text": "^1.0"
+    "serger/cake-utility": "1.*"
   },
   "autoload": {
     "psr-4": {
